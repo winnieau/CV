@@ -59,7 +59,7 @@ Education
 Experience
 ---
 
-- Personal Trainer (Summer 2014 - now)
+- Personal Trainer (Winter 2014 - now)
 - Reception, sales and stocking at WoofGang Bakery and Grooming (Summer 2013 - Summer 2014)
 - Street Performer while living in Belgium (Fall 2012 - Spring 2013)
 - Fact-checker and writer for Baltimore City Paper (Winter 2011 - Summer 2012)
