@@ -26,3 +26,7 @@ Project examples
 
 
 Built AgileVentures WebSiteTwo [app](https://evening-oasis-1495.herokuapp.com/) with my cohort at Makers Academy for our final project using Ruby on Rails and a postgresQL database to persist user information.
+
+For the project, I played a large part in UI/UX, spending extra time outside of group work to ensure that the website looked nice and was layed out in a logical manner. I am a strong proponent of emphasizing clean function with responsiveness first and allowing a simple but elegant design follow. 
+
+
