@@ -55,6 +55,7 @@ Education
 - Tae Kwon Do brown senior belt rank
 - Have been playing violin since the age of 3
 - General love of languages (including non-code-related): Proficient in Spanish and Mandarin, conversational in German and French
+- Blog management, MS Office, can type 104 wpm
 
 Experience
 ---
