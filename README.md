@@ -33,7 +33,7 @@ For the project, I played a large part in UI/UX, spending extra time outside of 
 Education
 ---
 
-**Makers Academy (April 2015 - July 2015)**
+**Makers Academy (July 2015 - October 2015)**
 
 - Highly selective 12 week full-time course with 4 week part-time precourse
 - Took initiative to pair "promiscuously" by writing code and sharing knowledge with as many people as possible. 
