@@ -12,7 +12,7 @@ You can read more about my programming adventures on my [blog](http://wbuntinx9.
 Skills
 ---
 
-Full Stack developer
+**Full Stack developer**
 
 Prior to learning how to program, I worked at Baltimore City Paper, an alternative weekly newspaper for which I fact-checked and made written contributions. My Bachelor's degree is in writing and the majority of my formal training is in the humanities and arts; however, I have always felt driven to find a field that involves nearly equal parts pragmatism and creativity.
 
