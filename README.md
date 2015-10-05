@@ -36,7 +36,7 @@ Education
 **Makers Academy (July 2015 - October 2015)**
 
 - Highly selective 12 week full-time course with 4 week part-time precourse
-- Took initiative to pair "promiscuously" by writing code and sharing knowledge with as many people as possible. 
+- Took initiative to pair "promiscuously" by writing code and sharing knowledge with as many people as possible
 - Gained experience working with real client and bringing the client's idea to life
 - Completed the whole course online, which required unique problem solving skills for tech issues unrelated to coding
 - Practiced giving and receiving good constructive criticism with code reviews
