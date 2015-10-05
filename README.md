@@ -1,48 +1,27 @@
-## Your Name
+Winnie Au
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+```
+Junior Full-Stack Developer with an eye for design and a diverse background ranging from creative writing and street performance to personal fitness instruction and junior olympic training.
 
-## Skills
+I am seeking a work environment that allows me to be myself and values me for my ability to make unique contributions. The ideal work-place would provide ongoing opportunities for learning while taking an interest in the mental health of its employees. As long as I am stimulated, valued and interested in my work, I will go in every day giving 110%.
 
-#### This Skill
+You can read more about my programming adventures on my [blog](http://wbuntinx9.wix.com/keep-calm-code-on).
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- Experience
-- Achievements
-- Evidence
+Skills
 
-#### Another Skill
+Full Stack developer
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Prior to learning how to program, I worked at Baltimore City Paper, an alternative weekly newspaper for which I fact-checked and made written contributions. My Bachelor's degree is in writing and the majority of my formal training is in the humanities and arts; however, I have always felt driven to find a field that involves nearly equal parts pragmatism and creativity.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I began my exploration of programming by doing as many free online tutorials as possible on HTML, CSS and Ruby and once I knew I had found my calling I applied to Makers Academy, the coding bootcamp. There I practiced TDD/BDD (using testing frameworks like RSpec, Capybara, Jasmine and Protractor) and version control (e.g. git) daily. Furthermore, I learned the importance of concepts like building a Minimum Viable Product, writing clear and concise user stories and constructing cohesive Domain Models, along with hours of remote pair-programming, mob programming and efficient git flow.
 
-## Education
+For the applications we built, we used two primary language stacks: Ruby and JavaScript. As a developer, I strive to write code that is self-explanatory (thus easily readable without excessive comments) and maintainable because I recognize the inevitability of change in a face-paced world that is becoming more reliant on technology by the day.
+```
 
-#### Makers Academy (start_date to end_date)
+Project examples
+---
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+```
+Built AgileVentures WebSiteTwo [app](https://evening-oasis-1495.herokuapp.com/) with my cohort at Makers Academy for our final project using Ruby on Rails and a postgresQL database to persist user information.
+```
