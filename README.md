@@ -27,9 +27,9 @@ Project examples
 
 - Built AgileVentures WebSiteTwo [app](https://evening-oasis-1495.herokuapp.com/) with my cohort at Makers Academy for our final project using Ruby on Rails and a postgresQL database to persist user information.
 
-   For the project, I played a large part in the UI/UX, spending extra time outside of group work to ensure that the website looked nice and was layed out in a logical manner. I am a strong proponent of emphasizing clean function with responsiveness first and allowing a simple but elegant design follow. 
+   For the project, I played a large part in the UI/UX, spending extra time outside of group work to ensure that the website looked nice and was layed out in a logical manner. I am a strong proponent of emphasizing clean function with responsiveness first and allowing a simple but elegant design follow.
 
-- Built Blackjack [app](https://pure-refuge-7844.herokuapp.com/) in two days with my Makers cohort. We used Ruby on Rails, JavaScript and JQuery during which I served on the front-end team and was the main contributor for HTML and CSS code. 
+- Built Blackjack [app](https://pure-refuge-7844.herokuapp.com/) in two days with my Makers cohort. We used Ruby on Rails, JavaScript and JQuery during which I served on the front-end team and was the main contributor for HTML and CSS code.
 
 Education
 ---
@@ -66,8 +66,3 @@ Experience
 - Reception, sales and stocking at WoofGang Bakery and Grooming (Summer 2013 - Summer 2014)
 - Street Performer while living in Belgium (Fall 2012 - Spring 2013)
 - Fact-checker and writer for Baltimore City Paper (Winter 2011 - Summer 2012)
-
-
-
-
-
