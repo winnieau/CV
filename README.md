@@ -2,7 +2,7 @@ Winnie Au
 ===
 
 
-Junior Full-Stack Developer with an eye for design and a diverse background ranging from creative writing and street performance to personal fitness instruction and junior olympic training.
+Junior full-stack developer with an eye for design and a diverse background ranging from creative writing and street performance to personal fitness instruction and junior olympic training.
 
 I am seeking a work environment that allows me to be myself and values me for my ability to make unique contributions. The ideal work-place would provide ongoing opportunities for learning while taking an interest in the mental health of its employees. As long as I am stimulated, valued and interested in my work, I will go in every day giving 110%.
 
@@ -13,8 +13,6 @@ Skills
 ---
 
 **Full Stack developer**
-
-Prior to learning how to program, I worked at Baltimore City Paper, an alternative weekly newspaper for which I fact-checked and made written contributions. My Bachelor's degree is in writing and the majority of my formal training is in the humanities and arts; however, I have always felt driven to find a field that involves nearly equal parts pragmatism and creativity.
 
 I began my exploration of programming by doing as many free online tutorials as possible on HTML, CSS and Ruby. Once I knew I had found my calling I applied to Makers Academy, the coding bootcamp. There I practiced TDD/BDD (using testing frameworks like RSpec, Capybara, Jasmine and Protractor) and version control (e.g. git) daily. Furthermore, I learned the importance of concepts like building a Minimum Viable Product, writing clear and concise user stories and constructing cohesive Domain Models, along with hours of remote pair-programming, mob programming and efficient git flow.
 
@@ -30,6 +28,9 @@ Project examples
    For the project, I played a large part in the UI/UX, spending extra time outside of group work to ensure that the website looked nice and was layed out in a logical manner. I am a strong proponent of emphasizing clean function with responsiveness first and allowing a simple but elegant design follow.
 
 - Built Blackjack [app](https://pure-refuge-7844.herokuapp.com/) in two days with my Makers cohort. We used Ruby on Rails, JavaScript and JQuery during which I served on the front-end team and was the main contributor for HTML and CSS code.
+
+- Built Thermostat [app](https://github.com/winnieau/Thermostat3) with the other members of Ronin. For the version of the project featured in my github repository, I did all of the CSS and contributed to writing Jasmine tests and the JavaScript logic. 
+
 
 Education
 ---
