@@ -16,7 +16,7 @@ Skills
 
 I began my exploration of programming by doing as many free online tutorials as possible on HTML, CSS and Ruby. Once I knew I had found my calling I applied to Makers Academy, the coding bootcamp. There I practiced TDD/BDD (using testing frameworks like RSpec, Capybara, Jasmine and Protractor) and version control (e.g. git) daily. Furthermore, I learned the importance of concepts like building a Minimum Viable Product, writing clear and concise user stories and constructing cohesive Domain Models, along with hours of remote pair-programming, mob programming and efficient git flow.
 
-For the applications we built, we used two primary language stacks: Ruby and JavaScript. As a developer, I strive to write code that is self-explanatory (thus easily readable without excessive comments) and maintainable because I recognize the inevitability of change in a fast-paced world that is becoming more reliant on technology by the day.
+For the applications we built, we used two primary language stacks: Ruby and JavaScript. As a developer, I strive to write code that is self-explanatory (thus easily readable without excessive comments) and maintainable, even though sometimes it is hard to know what exactly that entails. The only certainty seems to be that change is inevitable in this fast-paced world that is becoming more reliant on technology by the day, and we should try our best to make room for it. 
 
 
 Project examples
