@@ -25,13 +25,13 @@ Project examples
 
 - Built AgileVentures WebSiteTwo [app](https://evening-oasis-1495.herokuapp.com/) with my cohort at Makers Academy for our final project using Ruby on Rails and a PostgreSQL database to persist user information.
 
-   For the project, I played a large part in the UI/UX, spending extra time outside of group work to ensure that the website looked nice and was layed out logically. I am a proponent of emphasizing clean function with responsiveness first and allowing a simple but elegant design to follow. As someone who really values an aesthetically pleasing webpage, it is hard not to jump right into HTML and CSS immediately, but the wait pays off when you get everything working the way it should before you implement any additional design. 
+   For the project, I played a large part in the UI/UX, spending extra time outside of group work to ensure that the website looked nice and was layed out logically. I am a proponent of emphasizing clean function with responsiveness first and allowing a simple but elegant design to follow. As someone who really values an aesthetically pleasing webpage, it is hard not to jump right into HTML and CSS immediately, but the wait pays off when you get everything working the way it should before you implement any additional design.  [See the repository](https://github.com/winnieau/agile_ventures_website_two)
    
    Research shows that people tend to go to a website with the intention of getting something done, so as developers our first priority should be to make those tasks easier for them to accomplish. Regardless of how pretty it looks, nobody wants to spend valuable time trying to figure out how to navigate your site or app. Once the foundation is layed for responsiveness and easy navigation, then the CSS can be applied to make it more appealing. Chances are, having the functionality sorted out beforehand will even facilitate the design process. 
 
-- Built Blackjack [app](https://pure-refuge-7844.herokuapp.com/) in two days with my Makers cohort. We used Ruby on Rails, JavaScript and JQuery during which I served on the front-end team and was the main contributor for HTML and CSS code.
+- Built Blackjack [app](https://pure-refuge-7844.herokuapp.com/) in two days with my Makers cohort. We used Ruby on Rails, JavaScript and JQuery during which I served on the front-end team and was the main contributor for HTML and CSS code. [See the repository](https://github.com/winnieau/blackjack)
 
-- Built Thermostat [app](https://github.com/winnieau/Thermostat3) with the other members of Ronin. For the version of the project featured in my github repository, I did all of the CSS and contributed to writing Jasmine tests and the JavaScript logic. 
+- Built Thermostat [app](https://github.com/winnieau/Thermostat3) with the other members of Ronin. For the version of the project featured in my github repository, I did all of the CSS and contributed to writing Jasmine tests and the JavaScript logic. [See the repository](https://github.com/winnieau/Thermostat3)
 
 
 Education
