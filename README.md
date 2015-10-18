@@ -58,7 +58,7 @@ Education
 - Certified Personal Trainer (since December 2014)
 - CPR and First Aid certified for adults and children
 - Tae Kwon Do brown senior belt rank
-- Have been playing violin since the age of 3
+- Have been playing violin since the age of 3 [click here for youtube video](https://www.youtube.com/watch?v=QizWRMm0-LE)
 - General love of languages (including non-code-related): Proficient in Spanish and Mandarin, conversational in German and French
 - Blog management, MS Office, can type 104 wpm
 - Some experience with SikuliX
